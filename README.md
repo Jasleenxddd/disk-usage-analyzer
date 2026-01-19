@@ -35,6 +35,17 @@ This helps users quickly locate storage-heavy items and manage disk space effect
 ```bash
 python disk_analyzer.py <path_to_directory>
 ```
+## Sample Output
+
+Below is an example of the program output showing the largest files and directories in a folder.
+
+### Command-Line Interface (CLI)
+The screenshot below shows the output of the CLI version of the tool, displaying the largest files and directories within a specified folder.
 
 <img width="638" height="163" alt="image" src="https://github.com/user-attachments/assets/f5f97a18-5373-4ea8-819b-94042a7b1766" />
+
+### Graphical User Interface (GUI)
+The screenshot below shows the GUI version of the tool, which provides a simple interface for selecting a directory and viewing disk usage results.
+
+<img width="603" height="415" alt="image" src="https://github.com/user-attachments/assets/eeb575f4-e4a2-463d-b2ae-693194aac3fe" />
 
