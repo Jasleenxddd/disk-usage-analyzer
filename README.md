@@ -34,3 +34,7 @@ This helps users quickly locate storage-heavy items and manage disk space effect
 
 ```bash
 python disk_analyzer.py <path_to_directory>
+
+
+<img width="638" height="163" alt="image" src="https://github.com/user-attachments/assets/f5f97a18-5373-4ea8-819b-94042a7b1766" />
+
